@@ -93,6 +93,7 @@ Public Types</h2></td></tr>
 , <br />
 &#160;&#160;<b>Skew</b>
 , <b>Matrix</b>
+, <b>Perspective</b>
 <br />
  }</td></tr>
 <tr class="separator:a0923f46a370f558c8fdb8409efd536d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -102,15 +103,18 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a8b7fa2ef9729367e3afcb5b65ebda3f4"><td class="memItemLeft" align="right" valign="top"><a id="a8b7fa2ef9729367e3afcb5b65ebda3f4" name="a8b7fa2ef9729367e3afcb5b65ebda3f4"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>BuildTransform</b> (float width, float height)</td></tr>
 <tr class="separator:a8b7fa2ef9729367e3afcb5b65ebda3f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac46309b68a0bbf1d4367af79d0d0d230"><td class="memItemLeft" align="right" valign="top"><a id="ac46309b68a0bbf1d4367af79d0d0d230" name="ac46309b68a0bbf1d4367af79d0d0d230"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>AddTranslate</b> (Length? lengthX, Length? lengthY)</td></tr>
-<tr class="separator:ac46309b68a0bbf1d4367af79d0d0d230"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1fd19cd43df30f10754c02c5996a5487"><td class="memItemLeft" align="right" valign="top"><a id="a1fd19cd43df30f10754c02c5996a5487" name="a1fd19cd43df30f10754c02c5996a5487"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>AddTranslate</b> (Length? lengthX, Length? lengthY, Length? lengthZ=null)</td></tr>
+<tr class="separator:a1fd19cd43df30f10754c02c5996a5487"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af9445cebcdffdb2f3a11e2782e0785fd"><td class="memItemLeft" align="right" valign="top"><a id="af9445cebcdffdb2f3a11e2782e0785fd" name="af9445cebcdffdb2f3a11e2782e0785fd"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>AddTranslateX</b> (Length? length)</td></tr>
 <tr class="separator:af9445cebcdffdb2f3a11e2782e0785fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a016776990966f38ad438217fb4d409d1"><td class="memItemLeft" align="right" valign="top"><a id="a016776990966f38ad438217fb4d409d1" name="a016776990966f38ad438217fb4d409d1"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>AddTranslateY</b> (Length? length)</td></tr>
 <tr class="separator:a016776990966f38ad438217fb4d409d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a655727920ce6158d5e289ced15b5ec76"><td class="memItemLeft" align="right" valign="top"><a id="a655727920ce6158d5e289ced15b5ec76" name="a655727920ce6158d5e289ced15b5ec76"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>AddTranslateZ</b> (Length? length)</td></tr>
+<tr class="separator:a655727920ce6158d5e289ced15b5ec76"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac5a99888151205102842600423794932"><td class="memItemLeft" align="right" valign="top"><a id="ac5a99888151205102842600423794932" name="ac5a99888151205102842600423794932"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>AddScale</b> (float scale)</td></tr>
 <tr class="separator:ac5a99888151205102842600423794932"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -123,9 +127,15 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>AddSkew</b> (float x,
 <tr class="memitem:abd3855987877b866ccb1e6a070d82593"><td class="memItemLeft" align="right" valign="top"><a id="abd3855987877b866ccb1e6a070d82593" name="abd3855987877b866ccb1e6a070d82593"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>AddRotation</b> (float x, float y, float z)</td></tr>
 <tr class="separator:abd3855987877b866ccb1e6a070d82593"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d578ab58c024c904787eb07613b5e32"><td class="memItemLeft" align="right" valign="top"><a id="a4d578ab58c024c904787eb07613b5e32" name="a4d578ab58c024c904787eb07613b5e32"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>AddRotation</b> (Vector3 angles)</td></tr>
+<tr class="separator:a4d578ab58c024c904787eb07613b5e32"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac06642c7c95d570a0e72c8013efdca2b"><td class="memItemLeft" align="right" valign="top"><a id="ac06642c7c95d570a0e72c8013efdca2b" name="ac06642c7c95d570a0e72c8013efdca2b"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>AddMatrix3D</b> (float[] matrix)</td></tr>
 <tr class="separator:ac06642c7c95d570a0e72c8013efdca2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e41e762b50c432b6e49ed26c3c2e387"><td class="memItemLeft" align="right" valign="top"><a id="a6e41e762b50c432b6e49ed26c3c2e387" name="a6e41e762b50c432b6e49ed26c3c2e387"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>AddPerspective</b> (Length d)</td></tr>
+<tr class="separator:a6e41e762b50c432b6e49ed26c3c2e387"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6e0a7358a7ad63341dc4b92d7b557f57"><td class="memItemLeft" align="right" valign="top"><a id="a6e0a7358a7ad63341dc4b92d7b557f57" name="a6e0a7358a7ad63341dc4b92d7b557f57"></a>
 override bool&#160;</td><td class="memItemRight" valign="bottom"><b>Equals</b> (object obj)</td></tr>
 <tr class="separator:a6e0a7358a7ad63341dc4b92d7b557f57"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -166,7 +176,7 @@ int&#160;</td><td class="memItemRight" valign="bottom"><b>Entries</b><code> [get
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Wed Mar 16 2022 11:02:25 for S&amp;Box by&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.3
+Generated on Thu Mar 17 2022 12:07:20 for S&amp;Box by&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.3
 </small></address>
 </body>
 </html>
