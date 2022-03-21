@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['damage_0',['Damage',['../class_sandbox_1_1_explosion_entity.html#a51d90e27435a533a88c0a994efa0881d',1,'Sandbox.ExplosionEntity.Damage()'],['../class_sandbox_1_1_trigger_hurt.html#a500f7a829ef836b26ad9cd84a4b04332',1,'Sandbox.TriggerHurt.Damage()'],['../class_sandbox_1_1_model_explosion_behavior.html#adfcc95448690b51c2e61e578596c51aa',1,'Sandbox.ModelExplosionBehavior.Damage()'],['../struct_sandbox_1_1_damage_info.html#ac020d209639d6a8fb40e19f3c23f44b6',1,'Sandbox.DamageInfo.Damage()']]],
+  ['damage_0',['Damage',['../class_sandbox_1_1_model_explosion_behavior.html#adfcc95448690b51c2e61e578596c51aa',1,'Sandbox.ModelExplosionBehavior.Damage()'],['../struct_sandbox_1_1_damage_info.html#ac020d209639d6a8fb40e19f3c23f44b6',1,'Sandbox.DamageInfo.Damage()'],['../class_sandbox_1_1_explosion_entity.html#a51d90e27435a533a88c0a994efa0881d',1,'Sandbox.ExplosionEntity.Damage()'],['../class_sandbox_1_1_trigger_hurt.html#a500f7a829ef836b26ad9cd84a4b04332',1,'Sandbox.TriggerHurt.Damage()']]],
   ['damagedirectioncp_1',['DamageDirectionCP',['../class_sandbox_1_1_model_break_particle.html#a7171b8705b0f7df0c9b942046ab68291',1,'Sandbox::ModelBreakParticle']]],
   ['damageinfo_2',['DamageInfo',['../struct_sandbox_1_1_damage_info.html',1,'Sandbox']]],
   ['damagepositioncp_3',['DamagePositionCP',['../class_sandbox_1_1_model_break_particle.html#a9c2cc3bd42dc7403335873c7b9c2ab68',1,'Sandbox::ModelBreakParticle']]],
@@ -18,7 +18,7 @@ var searchData=
   ['decals_15',['Decals',['../class_sandbox_1_1_decal_definition.html#ad67888fc7fe27d6d0e2690ffae1f753c',1,'Sandbox::DecalDefinition']]],
   ['default_16',['Default',['../struct_sandbox_1_1_entity_target.html#a8dc61bd7b4c35c7e945829c762aa3091',1,'Sandbox::EntityTarget']]],
   ['defaultcleanupfilter_17',['DefaultCleanupFilter',['../class_sandbox_1_1_game.html#a10bbda52b44ffaad46949483eff0ca25',1,'Sandbox::Game']]],
-  ['delete_18',['Delete',['../class_sandbox_1_1_u_i_1_1_world_panel.html#a63630868f37cb9c6496131d3a0a75987',1,'Sandbox.UI.WorldPanel.Delete()'],['../class_sandbox_1_1_entity.html#aca4c644c780f89f932417ca9798bab0b',1,'Sandbox.Entity.Delete()'],['../class_sandbox_1_1_u_i_1_1_panel.html#a7c80f6a829b644af64f36e822ca968be',1,'Sandbox.UI.Panel.Delete()'],['../class_sandbox_1_1_u_i_1_1_root_panel.html#a5b88a0d66e161fea34fb68f96b8d7850',1,'Sandbox.UI.RootPanel.Delete()']]],
+  ['delete_18',['Delete',['../class_sandbox_1_1_u_i_1_1_world_panel.html#a63630868f37cb9c6496131d3a0a75987',1,'Sandbox.UI.WorldPanel.Delete()'],['../class_sandbox_1_1_entity.html#aca4c644c780f89f932417ca9798bab0b',1,'Sandbox.Entity.Delete()'],['../class_sandbox_1_1_u_i_1_1_panel.html#a7c80f6a829b644af64f36e822ca968be',1,'Sandbox.UI.Panel.Delete()'],['../class_sandbox_1_1_u_i_1_1_root_panel.html#a5b88a0d66e161fea34fb68f96b8d7850',1,'Sandbox.UI.RootPanel.Delete()'],['../class_sandbox_1_1_u_i_1_1_scene_panel.html#ace67b28cea429e9c7bec4013c2476e29',1,'Sandbox.UI.ScenePanel.Delete()']]],
   ['deleteasync_19',['DeleteAsync',['../class_sandbox_1_1_entity.html#af62cdb9a17cea98b040dc0cefcde4f66',1,'Sandbox::Entity']]],
   ['deletecontents_20',['DeleteContents',['../class_sandbox_1_1_base_inventory.html#a448783fc6ee7fdfbb59f06c16dd4fa1d',1,'Sandbox::BaseInventory']]],
   ['delta_21',['Delta',['../class_sandbox_1_1_time.html#ab1b2b6f0adf1f3c235cf155294bd4746',1,'Sandbox::Time']]],
