@@ -12,7 +12,7 @@ var searchData=
   ['updatesceneobject_9',['UpdateSceneObject',['../class_sandbox_1_1_water.html#a5a5b50ca568ced631f7e1b2b42a6f169',1,'Sandbox.Water.UpdateSceneObject()'],['../class_sandbox_1_1_render_entity.html#af9c8590354aede4c3cc24a305fa79461',1,'Sandbox.RenderEntity.UpdateSceneObject()']]],
   ['updatesplitfraction_10',['UpdateSplitFraction',['../class_sandbox_1_1_u_i_1_1_split_container.html#a8afa81d4b6856c88a07abee4e54c94af',1,'Sandbox::UI::SplitContainer']]],
   ['updatevalidation_11',['UpdateValidation',['../class_sandbox_1_1_u_i_1_1_text_entry.html#a548d011a8bce1bb9367c9f7e4dc786be',1,'Sandbox::UI::TextEntry']]],
-  ['usefail_12',['UseFail',['../class_sandbox_1_1_player.html#a0f748493c97f894e4f8ecee313c7dda7',1,'Sandbox::Player']]],
+  ['usefail_12',['UseFail',['../class_player.html#aaa6b60edb79c736cbc948716aace5ed9',1,'Player']]],
   ['usehitboxes_13',['UseHitboxes',['../struct_sandbox_1_1_trace.html#aa76899fa4b033a49cedad05bcd7cf91f',1,'Sandbox::Trace']]],
   ['usingtraceresult_14',['UsingTraceResult',['../struct_sandbox_1_1_damage_info.html#ae6ff29512105599c0c9827a55ace0165',1,'Sandbox::DamageInfo']]]
 ];

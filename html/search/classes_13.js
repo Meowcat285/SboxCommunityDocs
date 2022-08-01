@@ -27,11 +27,12 @@ var searchData=
   ['virtualscrollpanel_24',['VirtualScrollPanel',['../class_sandbox_1_1_u_i_1_1_tests_1_1_virtual_scroll_panel.html',1,'Sandbox::UI::Tests']]],
   ['voiceentry_25',['VoiceEntry',['../class_voice_entry.html',1,'']]],
   ['voicelist_26',['VoiceList',['../class_voice_list.html',1,'']]],
-  ['voxelchunk_27',['VoxelChunk',['../class_sandbox_1_1_voxel_chunk.html',1,'Sandbox']]],
-  ['voxelsurface_28',['VoxelSurface',['../class_sandbox_1_1_voxel_surface.html',1,'Sandbox']]],
-  ['vrhand_29',['VrHand',['../struct_sandbox_1_1_input_1_1_vr_hand.html',1,'Sandbox::Input']]],
-  ['vrinput_30',['VrInput',['../struct_sandbox_1_1_input_1_1_vr_input.html',1,'Sandbox::Input']]],
-  ['vroverlay_31',['VROverlay',['../class_sandbox_1_1_v_r_overlay.html',1,'Sandbox']]],
-  ['vroverlaypanel_32',['VROverlayPanel',['../class_sandbox_1_1_v_r_overlay_panel.html',1,'Sandbox']]],
-  ['vrtrackeddevice_33',['VRTrackedDevice',['../class_sandbox_1_1_v_r_tracked_device.html',1,'Sandbox']]]
+  ['voicespeaker_27',['VoiceSpeaker',['../class_voice_speaker.html',1,'']]],
+  ['voxelchunk_28',['VoxelChunk',['../class_sandbox_1_1_voxel_chunk.html',1,'Sandbox']]],
+  ['voxelsurface_29',['VoxelSurface',['../class_voxel_surface.html',1,'']]],
+  ['vrhand_30',['VrHand',['../struct_sandbox_1_1_input_1_1_vr_hand.html',1,'Sandbox::Input']]],
+  ['vrinput_31',['VrInput',['../struct_sandbox_1_1_input_1_1_vr_input.html',1,'Sandbox::Input']]],
+  ['vroverlay_32',['VROverlay',['../class_sandbox_1_1_v_r_overlay.html',1,'Sandbox']]],
+  ['vroverlaypanel_33',['VROverlayPanel',['../class_sandbox_1_1_v_r_overlay_panel.html',1,'Sandbox']]],
+  ['vrtrackeddevice_34',['VRTrackedDevice',['../class_sandbox_1_1_v_r_tracked_device.html',1,'Sandbox']]]
 ];

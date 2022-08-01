@@ -10,7 +10,5 @@ var searchData=
   ['fixedcamera_7',['FixedCamera',['../class_sandbox_1_1_fixed_camera.html',1,'Sandbox']]],
   ['flyingcontroller_8',['FlyingController',['../class_sandbox_1_1_flying_controller.html',1,'Sandbox']]],
   ['form_9',['Form',['../class_sandbox_1_1_u_i_1_1_form.html',1,'Sandbox::UI']]],
-  ['friend_10',['Friend',['../struct_sandbox_1_1_friend.html',1,'Sandbox']]],
-  ['funcmonitor_11',['FuncMonitor',['../class_sandbox_1_1_func_monitor.html',1,'Sandbox']]],
-  ['funcphysbox_12',['FuncPhysbox',['../class_sandbox_1_1_func_physbox.html',1,'Sandbox']]]
+  ['friend_10',['Friend',['../struct_sandbox_1_1_friend.html',1,'Sandbox']]]
 ];

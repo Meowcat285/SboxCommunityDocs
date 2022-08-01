@@ -11,8 +11,7 @@ var searchData=
   ['internaltests_8',['InternalTests',['../namespace_sandbox_1_1_internal_tests.html',1,'Sandbox']]],
   ['jsonconvert_9',['JsonConvert',['../namespace_sandbox_1_1_internal_1_1_json_convert.html',1,'Sandbox::Internal']]],
   ['sandbox_10',['Sandbox',['../namespace_sandbox.html',1,'']]],
-  ['screenshake_11',['ScreenShake',['../namespace_sandbox_1_1_screen_shake.html',1,'Sandbox']]],
-  ['tests_12',['Tests',['../namespace_sandbox_1_1_u_i_1_1_tests.html',1,'Sandbox::UI']]],
-  ['textureloader_13',['TextureLoader',['../namespace_sandbox_1_1_texture_loader.html',1,'Sandbox']]],
-  ['ui_14',['UI',['../namespace_sandbox_1_1_internal_1_1_u_i.html',1,'Sandbox.Internal.UI'],['../namespace_sandbox_1_1_u_i.html',1,'Sandbox.UI']]]
+  ['tests_11',['Tests',['../namespace_sandbox_1_1_u_i_1_1_tests.html',1,'Sandbox::UI']]],
+  ['textureloader_12',['TextureLoader',['../namespace_sandbox_1_1_texture_loader.html',1,'Sandbox']]],
+  ['ui_13',['UI',['../namespace_sandbox_1_1_internal_1_1_u_i.html',1,'Sandbox.Internal.UI'],['../namespace_sandbox_1_1_u_i.html',1,'Sandbox.UI']]]
 ];
